@@ -8,5 +8,9 @@ public class OfficialStartOfNewProject {
 
         //Hello
 
+        // Hello back from Rad to the entire team
+
+        // Good luck on DAY 1 practice
+
     }
 }
