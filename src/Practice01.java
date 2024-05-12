@@ -6,6 +6,7 @@ public class Practice01 {
         System.out.println("Good luck to everyone!");
         System.out.println("Good trials");
         System.out.println(" added Cydeo");
+        System.out.println("Good collaboration from everyone");
 
     }
 }
